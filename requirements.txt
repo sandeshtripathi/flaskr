@@ -1,1 +1,2 @@
-flask --app flaskr init-db
+flask
+gunicorn
